@@ -1,0 +1,65 @@
+{
+    "GAME": {
+        "WIDTH": 900,
+        "HEIGTH": 600,
+        "COLOR": [
+            109,
+            135,
+            100
+        ]
+    },
+    "MENU": {
+        "WIDTH": 500,
+        "HEIGTH": 600,
+        "COLOR": [
+            135,
+            135,
+            100
+        ]
+    },
+    "RCT1": {
+        "RECT.x": 20,
+        "RECT.y": 20,
+        "RECT.w": 25,
+        "RECT.h": 100,
+        "RECT.c": [
+            100,
+            118,
+            135
+        ],
+        "SPEED": 8,
+        "COUNT": 2,
+        "WIDTH": 25,
+        "HEIGTH": 100
+    },
+    "RCT2": {
+        "RECT.x": 850,
+        "RECT.y": 20,
+        "RECT.w": 25,
+        "RECT.h": 100,
+        "RECT.c": [
+            118,
+            96,
+            138
+        ],
+        "SPEED": 8,
+        "COUNT": 1,
+        "WIDTH": 25,
+        "HEIGTH": 100
+    },
+    "BALL": {
+        "RECT.x": 220,
+        "RECT.y": 530,
+        "RECT.w": 50,
+        "RECT.h": 50,
+        "RECT.c": [
+            164,
+            196,
+            0
+        ],
+        "SPEED": 0,
+        "COUNT": 0,
+        "WIDTH": 50,
+        "HEIGTH": 50
+    }
+}
